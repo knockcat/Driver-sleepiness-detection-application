@@ -1,3 +1,2 @@
-person
 awake
 drowsy
